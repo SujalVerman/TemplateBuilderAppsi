@@ -1,0 +1,4 @@
+[build]
+  command = "npm run build"
+  publish = "dist"  # or "build" if your build output goes there
+    
